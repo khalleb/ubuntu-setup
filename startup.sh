@@ -42,6 +42,13 @@ sudo apt-get install code -y # or code-insiders
 
 echo 'installing extensions visual studio code'
 code --install-extension dracula-theme.theme-dracula
+code --install-extension PKief.material-icon-theme
+code --install-extension ritwickdey.LiveServer
+code --install-extension EditorConfig.EditorConfig
+code --install-extension wix.vscode-import-cost
+code --install-extension eamodio.gitlens
+code --install-extension mikestead.dotenv
+code --install-extension foxundermoon.shell-format
 
 echo 'installing spotify' 
 snap install spotify

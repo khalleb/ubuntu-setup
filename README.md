@@ -7,7 +7,7 @@
 * GIT
 * SSH Generation
 * ZSH
-* Visual Studio Code'
+* Visual Studio Code
 * Visual Studio Code Extensions
 * Spotify
 * Google Chrome
