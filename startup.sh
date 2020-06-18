@@ -49,6 +49,7 @@ code --install-extension wix.vscode-import-cost
 code --install-extension eamodio.gitlens
 code --install-extension mikestead.dotenv
 code --install-extension foxundermoon.shell-format
+code --install-extension EditorConfig
 
 echo 'installing spotify' 
 snap install spotify
