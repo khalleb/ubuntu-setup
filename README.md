@@ -3,6 +3,10 @@
   <strong>Installing and configuring software on ubuntu</strong>
 </p>
 
+## :information_source: How To Use
+```bash
+./startup.sh
+```
 ## :rocket: Softwares
 * GIT
 * SSH Generation
@@ -15,12 +19,6 @@
 * Docker
 * Docker Compose
 * Postman
-
-
-## :information_source: How To Use
-```bash
-./startup.sh
-```
 
 ## 🤔 How to contribute
 - Make a fork;
