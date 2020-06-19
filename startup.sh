@@ -77,6 +77,9 @@ nvm alias default 12
 node --version
 npm --version
 
+echo 'installing Robo3t'
+snap install robo3t-snap
+
 echo 'installing docker' 
 sudo apt-get remove docker docker-engine docker.io
 sudo apt install docker.io -y
@@ -94,3 +97,9 @@ docker-compose --version
 
 echo 'installing Postman' 
 sudo snap install postman
+
+echo 'installing vlc'
+sudo apt install vlc -y
+sudo apt install vlc-plugin-access-extra libbluray-bdj libdvdcss2 -y
+
+echo 'Finish!'
