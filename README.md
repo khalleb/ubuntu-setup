@@ -19,6 +19,8 @@
 * Docker
 * Docker Compose
 * Postman
+* VLC
+* Robo3T
 
 ## 🤔 How to contribute
 - Make a fork;
