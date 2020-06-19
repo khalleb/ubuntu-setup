@@ -29,3 +29,7 @@
 ## :memo: Credits
 [Erick Wendel](https://github.com/ErickWendel/ew-ubuntu-setup/blob/master/startup.sh) :wave:
 
+## License
+
+[MIT License](./LICENSE)
+
