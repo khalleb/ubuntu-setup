@@ -21,6 +21,7 @@
 * Postman
 * VLC
 * Robo3T
+* Ulauncher
 
 ## 🤔 How to contribute
 - Make a fork;
