@@ -102,4 +102,8 @@ echo 'installing vlc'
 sudo apt install vlc -y
 sudo apt install vlc-plugin-access-extra libbluray-bdj libdvdcss2 -y
 
+echo 'installing ulauncher' 
+sudo add-apt-repository ppa:agornostal/ulauncher
+sudo apt update && sudo apt install ulauncher
+
 echo 'Finish!'
